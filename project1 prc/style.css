@@ -1,0 +1,90 @@
+#main{
+  background-color: white; 
+}
+#upperheader{
+    display:flex; padding: 0px ; color: aliceblue; background-color:black; width:1390px; height: 200px; margin-bottom: 60px;  justify-content: space-around; padding-top: 40px; text-decoration: none;
+}
+#upperheader img{
+    width: 200px; height: 200px; justify-content: left; 
+}
+#iconss{
+    justify-content: space-between; 
+}
+#iconss a{
+    text-decoration: none;
+}
+#imagee{
+     border: 200px solid black; margin-top: 20px; 
+}
+#title{
+    margin-top: -300px; font-size: 80px; color: yellow;
+    text-align: center;
+}
+#massage{
+    display: flex;  text-decoration: none; border-radius: 50%; 
+}
+#footer{
+    background-color: lavender;
+}
+#fotimg{
+    margin-left:460px;
+
+}
+#ul_list{
+     text-decoration: none;
+}
+#m:hover{
+    background-color:darkred; color: aliceblue; padding: 35px;
+}
+#o:hover{
+     background-color:darkorange; padding: 15px;
+}
+#v:hover{
+    background-color:grey; padding: 15px;
+}
+#e:hover{
+    background-color:darkorange; padding: 15px;
+}
+#r:hover{
+    background-color:grey; padding: 15px;
+}
+#hh:hover{
+    background-color:darkcyan; padding: 15px;
+}
+#hhh:hover{
+    background-color:grey; padding: 15px;
+}
+#hhhh:hover{
+    background-color:darkorange; padding: 15px;
+}
+
+#buttons{
+    display: flex; text-decoration: none; justify-content: center;
+}
+#last{
+    background-color: black; color: white;
+    height: 50px; text-align: center; padding: 20px;
+}
+#forrm{
+    background-color: cadetblue; 
+}
+.sticky1{
+    text-align: justify;
+    padding: 15px;
+    background-color: pink;
+    width: 25%;
+}
+#para1{
+    text-align: justify;
+    column-count: 5;
+    column-gap: 20px;
+    column-rule: 0px solid green;
+}
+
+
+
+
+
+
+
+
